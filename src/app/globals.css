@@ -1,0 +1,48 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+    --primary: #4EA8DE;
+    --secondary: #5E60CE;
+    --success: #1E6F9F;
+    --primary-dark: #0D0D0D;
+    --secondary-dark: #1A1A1A;
+    --primary-gray: #262626;
+    --secondary-gray: #333333;
+    --primary-light: #F2F2F2;
+    --secondary-light: #D9D9D9;
+    --disabled-light: #808080;
+    --app-red: #FF3B30;
+    --app-orange: #FF9500;
+    --app-yellow: #FFCC00;
+    --app-green: #34C759;
+    --app-blue: #007AFF;
+    --app-indigo: #5856D6;
+    --app-purple: #AF52DE;
+    --app-pink: #FF2D55;
+    --app-brown: #A2845E;
+
+    --w-content: 768px;
+}
+
+/*
+:root {
+  --background: #ffffff;
+  --foreground: #171717;
+}
+
+@media (prefers-color-scheme: dark) {
+  :root {
+    --background: #0a0a0a;
+    --foreground: #ededed;
+  }
+}
+
+body {
+  color: var(--foreground);
+  background: var(--background);
+  font-family: Inter;
+}
+
+ */
